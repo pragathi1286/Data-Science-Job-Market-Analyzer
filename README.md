@@ -6,7 +6,7 @@ The project uses **Pandas, NumPy, Matplotlib, Seaborn, WordCloud, and Streamlit*
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The **Data Science Job Market Analyzer** analyzes a dataset of Data Science job postings and converts raw job-market data into meaningful visual insights.
 
@@ -236,27 +236,6 @@ The application will open in your browser.
 
 ---
 
-## 📈 Dashboard Preview
-
-Add screenshots of your Streamlit dashboard here.
-
-Example:
-
-```markdown
-![Dashboard](dashboard.png)
-```
-
-You can upload screenshots such as:
-
-* Dashboard overview
-* Top job titles
-* Hiring locations
-* Top companies
-* Skill analysis
-* Salary analysis
-
----
-
 ## 💡 Key Features
 
 * ✅ Data cleaning and preprocessing
@@ -314,8 +293,3 @@ Possible future enhancements include:
 
 B.Tech Computer Science and Engineering
 
----
-
-## ⭐ Project
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
